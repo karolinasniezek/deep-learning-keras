@@ -1,4 +1,4 @@
-# Neural Network Classification with TensorFlow
+# Neural Network Classification with TensorFlow / Keras
 
 Deep Learning binary classification project built with TensorFlow/Keras.
 
