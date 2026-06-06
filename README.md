@@ -83,8 +83,8 @@ Input
 ## Installation
 
 ```bash
-git clone <repository-url>
-cd DeepLearningKeras
+git clone https://github.com/karolinasniezek/deep-learning-keras.git
+cd deep-learning-keras
 
 python3.10 -m venv .venv
 source .venv/bin/activate
